@@ -50,13 +50,14 @@ e através de reservas feitas por telefone, WhatsApp ou formulário.
 **Menu (em todas as páginas):** Início | Roupas | Sapatos | Sobre nós | Contacto
 
 ## 8. Conteúdos previstos
-| Página | Textos | Imagens | Vídeo | Tabelas |
+| Página | Textos | Imagens | Áudio/Vídeo | Tabelas | Formulário |
 |--------|--------|---------|-------------|---------|------------|
-| index.html | Boas-vindas e novidades | Vídeo de apresentação | - | - |
+| index.html | Boas-vindas e novidades | Logótipo e foto da loja | Vídeo de apresentação | - | - |
 | roupas.html | Descrição das peças por categoria | Fotos de roupa masculina, feminina e infantil | - | Tabela de preços e tamanhos | - |
 | sapatos.html | Descrição dos modelos | Fotos de sapatos | - | Tabela de preços e numeração | - |
 | sobre.html | História da boutique e equipa | Fotos da loja e da equipa | Áudio de apresentação (opcional) | - | - |
 | contacto.html | Morada, telefone e horário | Mapa da localização | - | Tabela de horário | Nome, contacto, produto, tamanho, cor, mensagem |
+
 
 ## 9. Declaração de uso de IA
 Utilizei o Claude (IA) para esclarecer dúvidas sobre as tags HTML de tabelas
